@@ -1,0 +1,1 @@
+Direct messenger that connects via socket and sends and receives messages, storing them locally. GUI run on Tkinter for user friendly interface.
